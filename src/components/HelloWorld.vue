@@ -3,5 +3,5 @@
 </template>
 
 <script setup lang="ts">
-  const msg = 'Hello!'
+  const msg = 'Hello World!'
 </script>
