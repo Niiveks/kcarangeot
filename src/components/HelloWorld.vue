@@ -3,5 +3,5 @@
 </template>
 
 <script setup lang="ts">
-  const msg = 'Hello World! Toto ? ...'
+  const msg = 'Hello World! Toto ?!'
 </script>
